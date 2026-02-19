@@ -1,2 +1,1 @@
-# leter.land.view
-leter code land view 
+terminal command line percent bar easy 
