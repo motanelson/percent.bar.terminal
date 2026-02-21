@@ -2,12 +2,12 @@ import time
 import os
 
 def draw(a):
-    perc=int(a/2.5)
+    perc=int(a/2)
     aa=str(a)+"%          "
     aa=aa[:4]
     print(aa+"[",end="")
     i="|" * perc
-    ii=(40-len(i))*" "
+    ii=(50-len(i))*" "
     print(i+ii+"]",end="\r")
     
 
