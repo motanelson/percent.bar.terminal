@@ -1,1 +1,1 @@
-terminal command line percent bar easy 
+simply c math
